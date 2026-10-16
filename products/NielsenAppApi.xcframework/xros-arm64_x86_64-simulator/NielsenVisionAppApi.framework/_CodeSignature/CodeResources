@@ -30,7 +30,7 @@
 		</data>
 		<key>Modules/NielsenVisionAppApi.swiftmodule/arm64-apple-xros-simulator.abi.json</key>
 		<data>
-		m8nSUH7iF0KXj1c19EMNbVwFo5w=
+		3SfEF4+SDAUmyBXPRNalYZv1GCs=
 		</data>
 		<key>Modules/NielsenVisionAppApi.swiftmodule/arm64-apple-xros-simulator.private.swiftinterface</key>
 		<data>
@@ -50,7 +50,7 @@
 		</data>
 		<key>Modules/NielsenVisionAppApi.swiftmodule/x86_64-apple-xros-simulator.abi.json</key>
 		<data>
-		m8nSUH7iF0KXj1c19EMNbVwFo5w=
+		3SfEF4+SDAUmyBXPRNalYZv1GCs=
 		</data>
 		<key>Modules/NielsenVisionAppApi.swiftmodule/x86_64-apple-xros-simulator.private.swiftinterface</key>
 		<data>
@@ -150,7 +150,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			fhUknD5KkVkegNBK5RaKMHtOEDFPKRPkAAznYctDYA4=
+			gbfRE8qH8EBgvoiicu60e+yZ0g6EZGg567sD/CNRvCw=
 			</data>
 		</dict>
 		<key>Modules/NielsenVisionAppApi.swiftmodule/arm64-apple-xros-simulator.private.swiftinterface</key>
@@ -185,7 +185,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			fhUknD5KkVkegNBK5RaKMHtOEDFPKRPkAAznYctDYA4=
+			gbfRE8qH8EBgvoiicu60e+yZ0g6EZGg567sD/CNRvCw=
 			</data>
 		</dict>
 		<key>Modules/NielsenVisionAppApi.swiftmodule/x86_64-apple-xros-simulator.private.swiftinterface</key>
